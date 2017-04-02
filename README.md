@@ -3,11 +3,9 @@
 The user interface holds the grid (10columns x 20rows) as well as a top menu and a side panel
 
 ### Top menu
-> File 		—> New Game, Exit
-
-> Game 		—> Start/Pause, Controls
-
-> Level		—> Easy, Medium, Hard, Expert
+- File 		—> New Game, Exit
+- Game 		—> Start/Pause, Controls
+- Level		—> Easy, Medium, Hard, Expert
 
 ### Side panel
 - Score
@@ -18,8 +16,7 @@ The user interface holds the grid (10columns x 20rows) as well as a top menu and
 - 2 lines: 	100
 - 3 lines:		300
 - 4 lines:		1200
-
-Column Busters: 20
+- Column Busters: 20
 
 #### Special Blocks:
 - White blocks move to the end of the board until they hit the floor
