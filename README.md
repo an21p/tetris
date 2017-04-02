@@ -4,9 +4,7 @@ The user interface holds the grid (10columns x 20rows) as well as a top menu and
 
 ### Top menu
 File 		—> New Game, Exit
-
 Game 		—> Start/Pause, Controls
-
 Level		—> Easy, Medium, Hard, Expert
 
 ### Side panel
@@ -15,11 +13,8 @@ Level		—> Easy, Medium, Hard, Expert
 
 ### Scoring:
 1 line: 		40
-
 2 lines: 	100
-
 3 lines:		300
-
 4 lines:		1200
 
 Column Busters: 20
